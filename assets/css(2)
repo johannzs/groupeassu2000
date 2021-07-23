@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Condensed Bold'), local('RobotoCondensed-Bold'), url(https://web.archive.org/web/20200520044034im_/http://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 04:40:34 May 20, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:07:32 Jul 21, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.077
+  exclusion.robots.policy: 0.068
+  RedisCDXSource: 2.211
+  esindex: 0.008
+  LoadShardBlock: 193.609 (6)
+  PetaboxLoader3.datanode: 97.796 (7)
+  CDXLines.iter: 84.68 (3)
+  load_resource: 71.219
+  PetaboxLoader3.resolve: 25.771
+*/

@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20201204164834im_/https://fonts.gstatic.com/s/amaticsc/v15/TUZ3zwprpvBS1izr_vOMscGKfrUH.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 16:48:34 Dec 04, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:17:20 Jul 21, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.179
+  RedisCDXSource: 1.365
+  esindex: 0.012
+  captures_list: 641.719
+  exclusion.robots.policy: 0.168
+  load_resource: 87.103
+  CDXLines.iter: 76.84 (3)
+  LoadShardBlock: 61.496 (3)
+  PetaboxLoader3.datanode: 103.682 (4)
+  PetaboxLoader3.resolve: 31.081
+*/

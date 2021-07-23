@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+_ate.track.config_resp({"pc":"shin","tool-config":{"_default":{"widgets":{"lf5c":{"countsFontSize":"60px","hideEmailSharingConfirmation":false,"counts":"one","widgetId":"lf5c","shareCountThreshold":10,"originalServices":"facebook_like,tweet,pinterest_pinit,google_plusone,counter","services":"facebook,twitter,linkedin,email,addthis","label":"SHARES","__hideOnHomepage":false,"numPreferredServices":3,"borderRadius":"0px","size":"32px","titleFontSize":"18px","elements":".addthis_inline_share_toolbox_lf5c","responsive":"979px","creationTimestamp":1521483134183,"iconColor":"#FFFFFF","counterColor":"#666666","hideDevice":"phone","style":"responsive","id":"shin","hideLabel":true,"toolName":"Inline"},"4944":{"countsFontSize":"60px","hideEmailSharingConfirmation":false,"counts":"one","widgetId":"4944","shareCountThreshold":10,"originalServices":"facebook_like,tweet,pinterest_pinit,google_plusone,counter","services":"facebook,messenger,twitter,whatsapp,linkedin,addthis","label":"SHARES","__hideOnHomepage":false,"numPreferredServices":3,"borderRadius":"0px","size":"32px","titleFontSize":"18px","elements":".addthis_inline_share_toolbox_4944","responsive":"979px","creationTimestamp":1521481208567,"iconColor":"#FFFFFF","counterColor":"#666666","hideDevice":"desktop","style":"responsive","id":"shin","hideLabel":true,"toolName":"Inline Mobile"}}}},"subscription":{"active":true,"edition":"BASIC","tier":"basic","reducedBranding":false,"insightsEnabled":false},"customMessageTemplates":[],"pro-config":{"_default":{"widgets":{"shin":{"countsFontSize":"60px","hideEmailSharingConfirmation":false,"counts":"one","widgetId":"lf5c","shareCountThreshold":10,"originalServices":"facebook_like,tweet,pinterest_pinit,google_plusone,counter","services":"facebook,twitter,linkedin,email,addthis","label":"SHARES","__hideOnHomepage":false,"numPreferredServices":3,"borderRadius":"0px","size":"32px","titleFontSize":"18px","elements":".addthis_inline_share_toolbox_lf5c","responsive":"979px","creationTimestamp":1521483134183,"iconColor":"#FFFFFF","counterColor":"#666666","hideDevice":"phone","style":"responsive","id":"shin","hideLabel":true,"toolName":"Inline"}}}}});
+
+}
+/*
+     FILE ARCHIVED ON 16:10:02 Mar 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:07:16 Jul 21, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  cdx.remote: 0.105
+  LoadShardBlock: 222.726 (3)
+  exclusion.robots: 0.215
+  exclusion.robots.policy: 0.199
+  captures_list: 312.016
+  esindex: 0.016
+  CDXLines.iter: 21.026 (3)
+  load_resource: 138.993
+  PetaboxLoader3.datanode: 254.54 (4)
+  PetaboxLoader3.resolve: 92.501
+*/

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>GROUPE ASSU 2000</title>
+	<link rel="stylesheet" href="/css/global.css">
+</head>
+<body>
+
+	<div id="page">
+		<img id="logo" src="/img/gr.png" alt="GROUPE ASSU 2000">
+
+		<content>
+			<header>
+				<p>
+					Le Groupe ASSU 2000 est un courtier expert en assurance (auto, moto, habitation) et en crédit (crédit immobilier, regroupement de crédits) auprès des particuliers depuis plus de 45 ans.
+				</p>
+
+			</header>
+			<p>
+			<p class="content">
+				Le Groupe ASSU 2000 a été victime <strong>d'un acte informatique malveillant.</strong> Par mesure de précaution et à titre conservatoire, nous avons pris la décision de suspendre momentanément l'accès à nos systèmes informatiques, entraînant des difficultés d’accès au site groupeassu2000.fr.
+			</p>
+			<p>
+				Nous travaillons à la <strong>résolution rapide de cet incident.</strong>
+			</p>
+			
+			<p class="signature">
+				<strong>Les équipes GROUPE&nbsp;ASSU&nbsp;2000</strong>
+			</p>
+		</content>
+	</div>
+	
+</body>
+</html>
